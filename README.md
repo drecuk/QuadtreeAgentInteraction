@@ -1,5 +1,5 @@
 # QuadtreeTerrain
-Quadtree Agent Interaction System: C++, OpenGL, SDL
+Quadtree Agent Interaction System Chapter Four: C++, OpenGL, SDL
 
 ### Topic: Object-Oriented C++ integration with SDL and OpenGL for Agent-Based Modelling (ABM)
 ### Author: Eugene Ch'ng [Academic Blog](http://www.complexity.io/)
